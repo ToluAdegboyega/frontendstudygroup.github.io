@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.a617e044.chunk.css",
-    "main.js": "/static/js/main.0dfa7059.chunk.js",
-    "main.js.map": "/static/js/main.0dfa7059.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f1b41efe.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f1b41efe.js.map",
-    "static/js/2.c50b510e.chunk.js": "/static/js/2.c50b510e.chunk.js",
-    "static/js/2.c50b510e.chunk.js.map": "/static/js/2.c50b510e.chunk.js.map",
-    "static/js/3.0e4456ed.chunk.js": "/static/js/3.0e4456ed.chunk.js",
-    "static/js/3.0e4456ed.chunk.js.map": "/static/js/3.0e4456ed.chunk.js.map",
+    "main.css": "/static/css/main.fe326568.chunk.css",
+    "main.js": "/static/js/main.94e16be4.chunk.js",
+    "main.js.map": "/static/js/main.94e16be4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b29eaf66.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b29eaf66.js.map",
+    "static/js/2.058fda26.chunk.js": "/static/js/2.058fda26.chunk.js",
+    "static/js/2.058fda26.chunk.js.map": "/static/js/2.058fda26.chunk.js.map",
+    "static/js/3.2524a0b9.chunk.js": "/static/js/3.2524a0b9.chunk.js",
+    "static/js/3.2524a0b9.chunk.js.map": "/static/js/3.2524a0b9.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.c50b510e.chunk.js.LICENSE.txt": "/static/js/2.c50b510e.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "static/css/main.fe326568.chunk.css.map": "/static/css/main.fe326568.chunk.css.map",
+    "static/js/2.058fda26.chunk.js.LICENSE.txt": "/static/js/2.058fda26.chunk.js.LICENSE.txt",
+    "static/media/CloseIcon.16ef9c93.svg": "/static/media/CloseIcon.16ef9c93.svg",
+    "static/media/index.css": "/static/media/FontsFree-Net-BrittanySignature.0d8ad040.ttf",
+    "static/media/MenuIcon.b79645a6.svg": "/static/media/MenuIcon.b79645a6.svg",
+    "static/media/WWCode-Logo.7f818bd0.png": "/static/media/WWCode-Logo.7f818bd0.png",
+    "static/media/WWCode-Pride-Logo.13c2252c.png": "/static/media/WWCode-Pride-Logo.13c2252c.png",
+    "static/media/card.bc61fc61.svg": "/static/media/card.bc61fc61.svg",
+    "static/media/table.82ae413a.svg": "/static/media/table.82ae413a.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f1b41efe.js",
-    "static/js/2.c50b510e.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.0dfa7059.chunk.js"
+    "static/js/runtime-main.b29eaf66.js",
+    "static/js/2.058fda26.chunk.js",
+    "static/css/main.fe326568.chunk.css",
+    "static/js/main.94e16be4.chunk.js"
   ]
 }
